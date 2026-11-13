@@ -1,3 +1,8 @@
+##INTEGRANTES DEL EQUIPO
+#Dario Salcan
+#DAvid del Castillo
+#Herman Pujos
+
 # Taller integrador — Encuesta socioeconómica sintética 2026
 
 1. Abra `encuesta_calidad.Rproj` en RStudio.
