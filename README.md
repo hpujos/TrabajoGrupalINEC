@@ -1,9 +1,9 @@
 # INTEGRANTES DEL EQUIPO
-
 Dario Salcan
 David del Castillo
 Herman Pujos
-#Instrucciones:
+
+# Instrucciones:
 Abrir el documento Resultados tarea.docx
 ubicado en la carpeta \resultados\Preguntas y respuestas por etapa\
 
