@@ -1,7 +1,7 @@
-##INTEGRANTES DEL EQUIPO
-#Dario Salcan
-#DAvid del Castillo
-#Herman Pujos
+INTEGRANTES DEL EQUIPO
+Dario Salcan
+DAvid del Castillo
+Herman Pujos
 
 # Taller integrador — Encuesta socioeconómica sintética 2026
 
